@@ -1,0 +1,5 @@
+# Created at 2024-06-19T15:31:05.550
+Boot Manifest-JAR contains absolute paths in classpath 'D:\apache-maven-3.9.6-src\Hybrid_FrameWork\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
